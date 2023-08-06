@@ -1,0 +1,10 @@
+Create a simple and clean landing page for a Food Shop system using HTML and CSS. The landing page should have a header,
+ a list of the top 4 recently added food and a footer. There should be some open 
+routes such as Home, Food Menu, Blog, Contact Us
+
+
+Each Food should display key information such as
+
+Kabab Ghor
+Item No : 1200
+Ratting :  4/5
